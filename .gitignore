@@ -2,3 +2,5 @@
 *.tar.gz
 *.tar.gz
 /bundle/images/
+*.tar.gz
+/bundle/images/
